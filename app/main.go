@@ -11,12 +11,14 @@ import (
 	"github.com/caarlos0/env/v10"
 )
 
-var revision = "unknown"
+var version = "unknown"
+var commit = "unknown"
+var date = "unknown"
 
 var logger *zap.Logger
 
 func main() {
-	fmt.Printf("queuer %s\n", revision)
+	fmt.Printf("Query version: %s, commit: %s, date: %s\n", version, commit, date)
 
 	opts := NewOptions()
 	if err := env.Parse(opts); err != nil {
