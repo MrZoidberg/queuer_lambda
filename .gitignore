@@ -22,3 +22,4 @@ go.work
 
 # Artifact files
 .bin
+dist
