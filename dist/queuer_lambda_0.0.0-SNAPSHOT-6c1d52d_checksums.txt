@@ -1,0 +1,2 @@
+fcb3ff7796a19c885243aef5cae1992eb621049dbbccab17aef71868e3629a2b  queuer_lambda_0.0.0-SNAPSHOT-6c1d52d_amd64.zip
+fcc734f2cfaa041fc7e03e1a4557e51c9baac4caa4e3a55181e3c8fb3af710a0  queuer_lambda_0.0.0-SNAPSHOT-6c1d52d_arm64.zip
